@@ -36,13 +36,13 @@ sort - failed_attempts
 **Source IP breakdown**
 ![Screenshot 3](docs/screenshots/bruteforce3.jpeg)
 
-**Alert configuration**
+**final result**
 ![Screenshot 4](docs/screenshots/bruteforce4.jpeg)
 
 **Dashboard view**
 ![Screenshot 5](docs/screenshots/bruteforce5.jpeg)
 
-**Detection result**
+**Alert configuration**
 ![Screenshot 6](docs/screenshots/bruteforce6.jpeg)
 
 ## Results
