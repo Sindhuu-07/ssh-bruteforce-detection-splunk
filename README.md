@@ -27,7 +27,7 @@ sort - failed_attempts
 **Threshold:** 5 or more failed logins from one source IP within 5 minutes
 **Output:** source IP, time window and number of failed attempts
 ## Screenshots
-**Splunk search and results**
+**Splunk main search page **
 ![Screenshot 1](docs/screenshots/bruteforce1.jpeg)
 
 **Failed login analysis**
