@@ -30,10 +30,10 @@ sort - failed_attempts
 **Splunk main search page **
 ![Screenshot 1](docs/screenshots/bruteforce1.jpeg)
 
-**Failed login analysis**
+**source ip breakdown**
 ![Screenshot 2](docs/screenshots/bruteforce2.jpeg)
 
-**Source IP breakdown**
+**Failed login analysi**
 ![Screenshot 3](docs/screenshots/bruteforce3.jpeg)
 
 **final result**
